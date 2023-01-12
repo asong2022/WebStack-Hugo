@@ -3,11 +3,10 @@
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
-    - title: 关注我们
-      logo: ""
-      url: https://ttxxzsk.top/
-      qrcode: assets/images/logos/qrcode.jpg
-      description: 坦小
+    - title: 百度
+      logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.baidu.com/
+      url: https://www.baidu.com/
+      description: 坦小知识库
     - title: 知识库
       logo: https://i.niupic.com/images/2023/01/09/afja.png
       url: https://i.ttxxzsk.top/
@@ -44,10 +43,15 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
+    - title: 关注我们
+      logo: https://i.niupic.com/images/2023/01/09/afja.png
+      url: https://ttxxzsk.top/
+      qrcode: assets/images/logos/qrcode.jpg
+      description: 坦小
 
 
 - taxonomy: 教师研训
-  icon: fas fa-briefcase fa-lg icon-fw icon-lg mr-2
+  icon: fas fa fa-graduation-cap icon-fw icon-lg mr-2
   list:
     - term: 研训直播
       links:
@@ -216,8 +220,8 @@
           url: https://wx.qq.com/
           description: 微信网页版
         - title: 微信文件传输助手
-          logo: https://filehelper.weixin.qq.com/
-          url: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://filehelper.weixin.qq.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://filehelper.weixin.qq.com/
+          url: https://filehelper.weixin.qq.com/
           description: 微信文件传输助手
         - title: 奶牛快传
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://cowtransfer.com/
@@ -230,19 +234,19 @@
     - term: 网盘资源
       links:
         - title: 百度网盘
-          logo: ttps://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://pan.baidu.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://pan.baidu.com/
           url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
+          description: 百度网盘
         - title: 阿里云盘
-          logo: ttps://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.aliyundrive.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.aliyundrive.com/
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
         - title: 天翼云盘
-          logo: ttps://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://cloud.189.cn/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://cloud.189.cn/
           url: https://cloud.189.cn/
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
-          logo: ttps://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.jianguoyun.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.jianguoyun.com/
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
         - title: 千帆搜索
@@ -261,6 +265,163 @@
           url: https://www.crxsoso.com/
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.crxsoso.com/
           description: Crx搜搜
+    - term: 书籍文档
+      links:
+        - title: 百度文库
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://wenku.baidu.com/
+          url: https://wenku.baidu.com/
+          description: 百度文库
+        - title: 文库下载助手
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://imwcr.cn/api/GetDocumentText/
+          url: https://imwcr.cn/api/GetDocumentText/
+          description: 文库下载助手
+        - title: 微信阅读
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://weread.qq.com/
+          url: https://weread.qq.com/
+          description: 微信阅读电脑版
+        - title: 浙江图书馆
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.zjlib.cn/
+          url: https://www.zjlib.cn/#searchs_1_div
+          description: 支付宝搜浙江图书馆注册账号|看文献
+        - title: 小学数学教与学
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.rdfybk.com/
+          url: http://www.rdfybk.com/qk/detail?DH=G392
+          description: 小学数学教与学  
+        - title: 小学数学教育
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.cnki.net/
+          url: https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=XUJY
+          description: 小学数学教育
+        - title: 小学数学教师
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.cnki.net/
+          url: https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=XXSS
+          description: 小学数学教师
+        - title: 杂志阅览
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://qikan.lifves.com/
+          url: http://qikan.lifves.com/
+          description: 读者|意林|杂志
+        - title: 全国图书馆参考咨询联盟
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.ucdrs.superlib.net/
+          url: http://www.ucdrs.superlib.net/
+          description: 全国图书馆参考咨询联盟
+        - title: 鸠摩搜书
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.jiumodiary.com/
+          url: https://www.jiumodiary.com/
+          description: 鸠摩搜书
+        - title: 1元图书
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://1yuanbook.com/
+          url: https://1yuanbook.com/
+          description: 1元图书
+        - title: 熊猫搜书
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://xmsoushu.com/
+          url: https://xmsoushu.com/
+          description: 熊猫搜书
+        - title: 黄冈小状元
+          logo: https://i.niupic.com/images/2023/01/09/afjo.png
+          url: https://book.yunzhan365.com/bookcase/pxcr/index.html?foldId=79442
+          description: 黄冈小状元
+        - title: 一课一练
+          logo: https://data1.ecnupress.com.cn/files/17136956f386d4/pdf/3263205d2452cb/cover/t1.jpg
+          url: https://app.ecnupress.com.cn/app/dt/bi/1492998588/24963-3263205d2452cb?s=1
+          description: 一课一练
+        - title: 阳光同学课时练
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.txzyb.com/
+          url: https://www.txzyb.com/bvp-jtwkindex-1-0.htm
+          description: 阳光同学课时练
+
+
+- taxonomy: 悠闲娱乐
+  icon: fas fa-coffee fa-lg icon-fw icon-lg mr-2
+  list:
+    - term: 电影视频
+      links:
+        - title: 腾讯视频
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://v.qq.com/
+          url: http://v.qq.com/
+          description: 腾讯视频，海量视频在线观看。
+        - title: 优酷
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.youku.com/
+          url: http://www.youku.com/
+          description: 优酷 - 这个世界很酷。
+        - title: 爱奇艺
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.iqiyi.com/
+          url: https://www.iqiyi.com/
+          description: 爱奇艺在线视频。
+        - title: 抖音
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.douyin.com/
+          url: https://www.douyin.com/
+          description: 抖音
+        - title: 快手
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.kuaishou.com/
+          url: https://www.kuaishou.com/
+          description: 快手
+        - title: CCTV直播
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://tv.cctv.com/
+          url: https://tv.cctv.com/live/index.shtml
+          description: CCTV直播
+        - title: 西瓜视频
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.ixigua.com/
+          url: https://www.ixigua.com/
+          description: 西瓜视频
+        - title: 哔哩哔哩
+          logo: 哔哩哔哩.png
+          url: https://www.bilibili.com/
+          description: Bilibili 视频弹幕网站。
+        - title: 茶杯狐
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://cupfox.app/
+          url: https://cupfox.app/
+          description: 茶杯狐|努力让找电影变得简单
+        - title: 搜片
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://soupian.xyz/
+          url: https://soupian.xyz/
+          description: 找影片上搜片|全网海量影片数据
+        - title: 全能视频解析
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.whg6.com/html/video/
+          url: https://www.whg6.com/html/video/
+          description: 全能VIP视频在线解析
+        - title: 懒人视频解析
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.eggvod.cn/
+          url: https://www.eggvod.cn//jxjx.php?lrspm=271888661&zhm_jx=
+          description: 懒人VIP视频解析 
+    - term: 音乐畅听
+      links:
+        - title: QQ 音乐
+          logo: QQ音乐.jpg
+          url: https://y.qq.com/
+          description: QQ 音乐，在线听歌。
+        - title: 网易云音乐
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://music.163.com/
+          url: https://music.163.com/
+          description: 163 网易云音乐。
+        - title: 酷狗音乐
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.kugou.com/
+          url: https://www.kugou.com/
+          description: 酷狗音乐
+        - title: listen1
+          logo: https://listen1.github.io/listen1/
+          url: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://listen1.github.io/listen1/
+          description: listen1听歌|客户端
+        - title: 铜钟音乐
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://tonzhon.com/
+          url: https://tonzhon.com/
+          description: 铜钟音乐下载
+        - title: MyFreeMP3
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://tools.liumingye.cn/music/
+          url: https://tools.liumingye.cn/music/
+          description: MyFreeMP3在线听歌
+    - term: 社交媒体
+      links:
+        - title: 百度贴吧
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://tieba.baidu.com/
+          url: https://tieba.baidu.com/
+          description: 百度贴吧。
+        - title: 豆瓣
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.douban.com/
+          url: https://www.douban.com/
+          description: 豆瓣
+
+- taxonomy: 文件处理
+  icon: fas fa-briefcase fa-lg icon-fw icon-lg mr-2
+  list:
     - term: 文档处理
       links:
         - title: 超级PDF
@@ -370,77 +531,7 @@
         - title: 在线录屏
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://ouweiya.github.io/Web-recording-screen/
           url: https://ouweiya.github.io/Web-recording-screen/
-          description: 在线录屏|浏览器临时录屏 
-    - term: 书籍文档
-      links:
-        - title: 百度文库
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://wenku.baidu.com/
-          url: https://wenku.baidu.com/
-          description: 百度文库
-        - title: 文库下载助手
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://imwcr.cn/api/GetDocumentText/
-          url: https://imwcr.cn/api/GetDocumentText/
-          description: 文库下载助手
-        - title: 微信阅读
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://weread.qq.com/
-          url: https://weread.qq.com/
-          description: 微信阅读电脑版
-        - title: 浙江图书馆
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.zjlib.cn/
-          url: https://www.zjlib.cn/#searchs_1_div
-          description: 支付宝搜浙江图书馆注册账号|看文献
-        - title: 第一PPT
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.1ppt.com/
-          url: https://www.1ppt.com/
-          description: 第一PPT
-        - title: 101教育PPT
-          logo: https://i.niupic.com/images/2023/01/09/afjl.png
-          url: https://ppt.101.com/
-          description: 101教育PPT（客户端）
-        - title: 小学数学教与学
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.rdfybk.com/
-          url: http://www.rdfybk.com/qk/detail?DH=G392
-          description: 小学数学教与学  
-        - title: 小学数学教育
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.cnki.net/
-          url: https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=XUJY
-          description: 小学数学教育
-        - title: 小学数学教师
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.cnki.net/
-          url: https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CJFD&pykm=XXSS
-          description: 小学数学教师
-        - title: 杂志阅览
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://qikan.lifves.com/
-          url: http://qikan.lifves.com/
-          description: 读者|意林|杂志
-        - title: 全国图书馆参考咨询联盟
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.ucdrs.superlib.net/
-          url: http://www.ucdrs.superlib.net/
-          description: 全国图书馆参考咨询联盟
-        - title: 鸠摩搜书
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.jiumodiary.com/
-          url: https://www.jiumodiary.com/
-          description: 鸠摩搜书
-        - title: 1元图书
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://1yuanbook.com/
-          url: https://1yuanbook.com/
-          description: 1元图书
-        - title: 熊猫搜书
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://xmsoushu.com/
-          url: https://xmsoushu.com/
-          description: 熊猫搜书
-        - title: 黄冈小状元
-          logo: https://i.niupic.com/images/2023/01/09/afjo.png
-          url: https://book.yunzhan365.com/bookcase/pxcr/index.html?foldId=79442
-          description: 黄冈小状元
-        - title: 一课一练
-          logo: https://data1.ecnupress.com.cn/files/17136956f386d4/pdf/3263205d2452cb/cover/t1.jpg
-          url: https://app.ecnupress.com.cn/app/dt/bi/1492998588/24963-3263205d2452cb?s=1
-          description: 一课一练
-        - title: 阳光同学课时练
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.txzyb.com/
-          url: https://www.txzyb.com/bvp-jtwkindex-1-0.htm
-          description: 阳光同学课时练
+          description: 在线录屏|浏览器临时录屏
     - term: 视频下载 
       links:
         - title: 视频下载经验
@@ -486,102 +577,73 @@
         - title: 研修直播下载
           logo: https://yxupload.jsyxw.cn/20220410/12/007ddad8-9b97-462e-9730-00dca9bb39f6.png
           url: https://teaching.feishu.cn/wiki/wikcnWXTmGZiwZBzq53YI6inIrb
-          description: 研训直播边直播边下载|m3u8直播下载
-
-
-- taxonomy: 悠闲娱乐
-  icon: fas fa-coffee fa-lg icon-fw icon-lg mr-2
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://v.qq.com/
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.youku.com/
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.iqiyi.com/
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 抖音
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.douyin.com/
-          url: https://www.douyin.com/
-          description: 抖音
-        - title: 快手
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.kuaishou.com/
-          url: https://www.kuaishou.com/
-          description: 快手
-        - title: CCTV直播
-          logo: https://tv.cctv.com/live/index.shtml
-          url: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://tv.cctv.com/
-          description: CCTV直播
-        - title: 西瓜视频
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.ixigua.com/
-          url: https://www.ixigua.com/
-          description: 西瓜视频
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: 茶杯狐
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://cupfox.app/
-          url: https://cupfox.app/
-          description: 茶杯狐|努力让找电影变得简单
-        - title: 搜片
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://soupian.xyz/
-          url: https://soupian.xyz/
-          description: 找影片上搜片|全网海量影片数据
-        - title: 全能视频解析
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.whg6.com/html/video/
-          url: https://www.whg6.com/html/video/
-          description: 全能VIP视频在线解析
-        - title: 懒人视频解析
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.eggvod.cn/
-          url: https://www.eggvod.cn//jxjx.php?lrspm=271888661&zhm_jx=
-          description: 懒人VIP视频解析 
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://music.163.com/
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-        - title: 酷狗音乐
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.kugou.com/
-          url: https://www.kugou.com/
-          description: 酷狗音乐
-        - title: listen1
-          logo: https://listen1.github.io/listen1/
-          url: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://listen1.github.io/listen1/
-          description: listen1听歌|客户端
-        - title: 铜钟音乐
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://tonzhon.com/
-          url: https://tonzhon.com/
-          description: 铜钟音乐下载
-        - title: MyFreeMP3
-          logo: https://tools.liumingye.cn/music/
-          url: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://tools.liumingye.cn/music/
-          description: MyFreeMP3在线听歌
-    - term: 社交媒体
-      links:
-        - title: 百度贴吧
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=ttps://tieba.baidu.com/
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 豆瓣
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.douban.com/
-          url: https://www.douban.com/
-          description: 豆瓣
+          description: 研训直播边直播边下载|m3u8直播下载 
 
 
 - taxonomy: 素材
   icon: far fa-folder-open fa-lg
   list:
-    - term: 图标素材
+    - term: PPT资源
+      links:
+        - title: 第一PPT
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.1ppt.com/
+          url: https://www.1ppt.com/
+          description: 第一PPT
+        - title: 101教育PPT
+          logo: https://i.niupic.com/images/2023/01/09/afjl.png
+          url: https://ppt.101.com/
+          description: 101教育PPT（客户端）
+        - title: AboutPPT导航
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.aboutppt.com/
+          url: https://www.aboutppt.com/
+          description: PPT聚合网站，应有尽有
+        - title: HiPPTer导航
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.hippter.com/
+          url: http://www.hippter.com/
+          description: PPT聚合网站，应有尽有
+        - title: OfficePLUS
+          url: http://www.officeplus.cn/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.officeplus.cn/
+          description: OfficePLUS，微软Office官方在线模板网站！
+        - title: 优品PPT
+          url: https://www.ypppt.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.ypppt.com/
+          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
+        - title: 叮当设计
+          url: https://www.dingdangsheji.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.dingdangsheji.com/
+          description: 已更新至1643个素材模板，全部免费下载
+        - title: PPT超级超市
+          url: https://www.pptsupermarket.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.pptsupermarket.com/
+          description: 中国领先的PPT模板共享平台。
+    - term: 云服务器
+      links:
+        - title: 阿里云
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.aliyun.com/
+          url: https://www.aliyun.com/
+          description: 上云就上阿里云。
+        - title: 腾讯云
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://cloud.tencent.com/
+          url: https://cloud.tencent.com/
+          description: 产业智变，云启未来。
+        - title: 华为云
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.huaweicloud.com/
+          url: https://www.huaweicloud.com/
+          description: 提供云计算服务+智能，见未来-华为云。
+        - title: 云筏科技
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://my.cloudraft.cn/
+          url: https://my.cloudraft.cn/
+          description: 云筏 - 科研云。
+        - title: 极云普惠云电脑
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.ji-cloud.cn/
+          url: https://www.ji-cloud.cn/
+          description: 云电脑-云游戏-手机变电脑软件。
+        - title: 青椒云
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.qingjiaocloud.com/
+          url: https://www.qingjiaocloud.com/
+          description: 云桌面,一站式云电脑服务平台。
+    - term: 平面素材
       links:
         - title: Iconfinder
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.iconfinder.com
@@ -591,78 +653,18 @@
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.iconfont.cn/
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://iconmonstr.com/
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
-        - title: Icon Archive
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.iconarchive.com/
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons.
-        - title: FindIcons
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://findicons.com/
-          url: https://findicons.com/
-          description: Search through 300,000 free icons.
-        - title: IcoMoonApp
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://icomoon.io/app/
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator.
-        - title: easyicon
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.easyicon.net/
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
-        - title: flaticon
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.flaticon.com/
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://ui-cloud.com/
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://material.io/icons/
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://fontawesome.com/icons/
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome.
-        - title: ion icons
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://ionicons.com/
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://simplelineicons.com/
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack.
-    - term: 图标设计
-      links:
-        - title: Iconsfeed
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.iconsfeed.com/
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery.
-        - title: iOS Icon Gallery
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://iosicongallery.com/
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store.
-        - title: World Vector Logo
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://worldvectorlogo.com/
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download.
-        - title: Instant Logo Search
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://instantlogosearch.com/
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
-    - term: 平面素材
-      links:
-        - title: freepik
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.freepik.com/
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://wallhalla.com/
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
+        - title: 方正字库
+          url: http://www.foundertype.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.foundertype.com/
+          description: 方正字库官方网站。
+        - title: 字体传奇网
+          url: http://ziticq.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://ziticq.com/
+          description: 中国首个字体品牌设计师交流网。
+        - title: 私藏字体
+          url: http://sicangziti.com/
+          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://sicangziti.com/
+          description: 优质字体免费下载站。   
         - title: 365PSD
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://365psd.com/
           url: https://365psd.com/
@@ -691,148 +693,7 @@
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.nipic.com/
           url: http://www.nipic.com/
           description: 原创素材共享平台。
-        - title: 懒人图库
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.lanrentuku.com/
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://so.ui001.com/
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://psefan.com/
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
         - title: 素材中国
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.sccnn.com/
           url: http://www.sccnn.com/
-          description: 免费素材共享平台。
-    - term: 字体资源
-      links:
-        - title: Typekit
-          url: https://typekit.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://typekit.com/
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.foundertype.com/
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://ziticq.com/
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://sicangziti.com/
-          description: 优质字体免费下载站。      
-    - term: PPT资源
-      links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.officeplus.cn/Template/Home.shtml
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.ypppt.com/
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.pptplus.cn/
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.pptmind.com/
-          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.tretars.com/ppt-templates
-          description: The best free Mockups from the Web.
-        - title: 5百丁
-          url: http://ppt.500d.me/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://ppt.500d.me/
-          description: 中国领先的PPT模板共享平台。
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
-  list: 
-    - term: 云服务器
-      links:
-        - title: 阿里云
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.aliyun.com/
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://cloud.tencent.com/
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.huaweicloud.com/
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://my.cloudraft.cn/
-          url: https://my.cloudraft.cn/
-          description: 云筏 - 科研云。
-        - title: 极云普惠云电脑
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.ji-cloud.cn/
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.qingjiaocloud.com/
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.adobe.com/cn/products/photoshop.html
-          description: Photoshop
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://affinity.serif.com/
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.adobe.com/cn/products/illustrator/
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.adobe.com/cn/products/indesign.html
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.maxon.net/en/products/cinema-4d/overview/
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.autodesk.com/products/3ds-max/overview
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.blender.org/
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://sketchapp.com/
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://www.adobe.com/products/xd.html
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.invisionapp.com/
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://marvelapp.com/
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://creative.adobe.com/zh-cn/products/download/muse
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.figma.com/
-          description: Design, prototype, and gather feedback all in one place with Figma.
+          description: 免费素材共享平台。  

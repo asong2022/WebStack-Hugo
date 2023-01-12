@@ -46,7 +46,6 @@
       description: 知乎社区。
 
 
-
 - taxonomy: 教师研训
   icon: fas fa-briefcase fa-lg icon-fw icon-lg mr-2
   list:
@@ -169,8 +168,6 @@
           url: https://peixun.xueanquan.com/home/index
           description: 安全素养培训平台
 
-
-
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg icon-fw icon-lg mr-2
   list:
@@ -208,7 +205,7 @@
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.yuque.com/
           url: https://www.yuque.com/
           description: 语雀|知识花园|在线文档
-          - title: 有道翻译
+        - title: 有道翻译
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://fanyi.youdao.com/
           url: http://fanyi.youdao.com/
           description: 有道翻译。
@@ -260,7 +257,7 @@
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.alipansou.com/
           url: https://www.alipansou.com/
           description: 猫狸盘搜
-           - title: Crx搜搜
+        - title: Crx搜搜
           url: https://www.crxsoso.com/
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.crxsoso.com/
           description: Crx搜搜
@@ -340,7 +337,6 @@
           url: https://ezgif.com
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://ezgif.com
           description: 在线GIF制作
-        - title: screen sizes  
     - term: 媒体处理
       links:
         - title: 剪映
@@ -580,29 +576,8 @@
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.douban.com/
           url: https://www.douban.com/
           description: 豆瓣
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: 
-          logo: 
-          url: 
-          description:
-        - title: 
-          logo: 
-          url: 
-          description: 
-        - title: 
-          logo: 
-          url: 
-          description: 
 
-   
-      
+
 - taxonomy: 素材
   icon: far fa-folder-open fa-lg
   list:
@@ -776,13 +751,12 @@
           url: http://ppt.500d.me/
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=http://ppt.500d.me/
           description: 中国领先的PPT模板共享平台。
-      
-
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
   list: 
-      - term: 云服务器
-          - title: 阿里云
+    - term: 云服务器
+      links:
+        - title: 阿里云
           logo: https://t1.gstatic.cn/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&size=32&url=https://www.aliyun.com/
           url: https://www.aliyun.com/
           description: 上云就上阿里云。

@@ -10,11 +10,11 @@ publishDir = "docs"
 
 [params]
     author        = "asong"
-    description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
+    description   = "阿松导航 | 施在必行"
     siteurl       = "./"
     upload        = "https://ttxxzsk.top/"  # 左侧导航栏的"网站提交"
     about         = "https://ttxxzsk.top/"   # 左侧导航栏的"关于导航"页面(./about)
-    repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
+    repository    = "https://github.com/asong2022"  
     enablePreLoad = true		    		           # 网站完全打开前预加载动画
     textPreLoad   = "阿松导航页" 		           # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false                                          # 默认展开左侧边导航栏
@@ -26,7 +26,7 @@ publishDir = "docs"
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "assets/images/favicon.png"
+    favicon           = "https://i.niupic.com/images/2023/01/08/af19.png"
     searchImageL      = "assets/images/bg-dna.jpg"		#搜索部分浅色背景图
     searchImageD      = "assets/images/bg-dna.jpg"		#搜索部分深色背景图
     logoExpandLight   = "assets/images/bt8-expand-light.png"

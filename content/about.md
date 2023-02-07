@@ -4,30 +4,27 @@ date: 2020-07-28T19:27:08+08:00
 draft: false
 ---
 
-#### 这是 Hugo 版 WebStack 主题
-
-本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
-
-- [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
-- [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
-
-<br/>
-
-主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
-
-这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
-
-WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！
-
-<br/>
-
-#### 主题开源地址
-
-[https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo)
-
-<br/>
-
-#### 主题演示地址
-
-- [https://nav.bioitee.com](https://nav.bioitee.com)
-- [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)
+<h3>关于本站</h3>
+<p>感谢来访，本站致力于简洁高效的上网导航和搜索入口，安全快捷。</p>
+<p>如果您喜欢我们的网站，请将本站添加到收藏夹（快捷键<code>Ctrl+D</code>），并<a href="https://jingyan.baidu.com/article/4dc40848868eba89d946f1c0.html" target="_blank">设为浏览器主页</a>，方便您的下次访问，感谢支持。<p>
+<hr>
+<h3>本站承诺</h3>
+<p><strong>绝对不会收集用户的隐私信息</strong><p>
+<p>区别于部分导航网站，本站链接直接跳转目标，不会对链接处理再后跳转，不会收集用户的隐藏信息，包括但不限于点击记录，访问记录和搜索记录，请放心使用</p>
+<hr>
+<h3>申请收录</h3>
+<p>请点<a href="./apply" target="_blank">这里</a></p>
+<hr>
+<h3>联系我们</h3>
+<p>若您在使用本站时遇到了包括但不限于以下问题：</p>
+<li>图标缺失</li>
+<li>目标网站无法打开</li>
+<li>描述错误</li>
+<li>网站违规</li>
+<li>收录加急处理</li>
+<li>链接删除</li>
+<p><strong>请发邮件与我们联系</strong></p>
+<h5>联系邮箱</h5>
+<p><a href="mailto:i-shi@qq.com">i-shi@qq.com</a></p>
+<h5>联系说明</h5>
+<p>为了您的问题能快速被处理，建议在邮件主题添加【反馈】【投诉】【推荐】【友链】</p>

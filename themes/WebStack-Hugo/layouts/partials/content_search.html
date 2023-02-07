@@ -6,12 +6,11 @@
                     <div class="s-type-list big">
                         <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
                         <label for="type-baidu" class="" data-id="group-a"><span>常用</span></label>
-                        <label for="type-bing" data-id="group-b"><span>搜索</span></label>
+                        <label for="type-bing1" data-id="group-b"><span>搜索</span></label>
                         <label for="type-zhihu" data-id="group-c"><span>社区</span></label>
                         <label for="type-taobao1" data-id="group-d"><span>生活</span></label>
                         <label for="type-soupian" data-id="group-e"><span>影视</span></label>
                         <label for="type-qianfan" data-id="group-f"><span>资源</span></label>
-                        <label for="type-zhaopin" data-id="group-g"><span>求职</span></label>
                     </div>
                 </div>
             </div>
@@ -31,6 +30,9 @@
                         <li><input hidden="" type="radio" name="type" id="type-bing"
                             value="https://cn.bing.com/search?q=" data-placeholder="微软 Bing 搜索">
                 <label for="type-bing"><span class="text-muted">必应</span></label></li>
+                        <li><input hidden="" type="radio" name="type" id="type-xiaohongshu" 
+                            value="https://www.xiaohongshu.com/mobile/tags/s?name=" data-placeholder="小红书 标记我的生活（手机UA打开）">
+                <label for="type-xiaohongshu"><span class="text-muted">小红书</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-bilibili"
                             value="https://search.bilibili.com/all?keyword=" data-placeholder="bilibili (゜-゜)つロ 干杯~">
                  <label for="type-bilibili"><span class="text-muted">哔哩哔哩</span></label></li>
@@ -47,12 +49,12 @@
                         <li><input hidden="" type="radio" name="type" id="type-baidu1"
                                 value="https://www.baidu.com/s?wd=" data-placeholder="百度一下，你就知道"><label
                                 for="type-baidu1"><span class="text-muted">百度</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-fsou"
-                                value="https://fsoufsou.com/search?q=" data-placeholder="F搜 或许有超出百度的搜索体验"><label
-                                for="type-fsou"><span class="text-muted">F搜</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-bing1"
                                 value="https://cn.bing.com/search?q=" data-placeholder="微软 Bing 搜索"><label
                                 for="type-bing1"><span class="text-muted">必应</span></label></li>
+                        <li><input hidden="" type="radio" name="type" id="type-fsou"
+                                value="https://fsoufsou.com/search?q=" data-placeholder="F搜 或许有超出百度的搜索体验"><label
+                                for="type-fsou"><span class="text-muted">F搜</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-sogo"
                                 value="https://www.sogou.com/web?query=" data-placeholder="搜狗搜索"><label
                                 for="type-sogo"><span class="text-muted">搜狗</span></label></li>
@@ -74,8 +76,8 @@
                             <label for="type-weibo"><span class="text-muted">微博</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-douban" value="https://www.douban.com/search?q=" data-placeholder="豆瓣">
                             <label for="type-douban"><span class="text-muted">豆瓣</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-xiaohongshu" value="https://www.xiaohongshu.com/mobile/tags/s?name=" data-placeholder="小红书 用手机UA才能打开">
-                            <label for="type-xiaohongshu"><span class="text-muted">小红书</span></label></li>
+                        <li><input hidden="" type="radio" name="type" id="type-xiaohongshu1" value="https://www.xiaohongshu.com/mobile/tags/s?name=" data-placeholder="小红书 用手机UA才能打开">
+                            <label for="type-xiaohongshu1"><span class="text-muted">小红书</span></label></li>
                     </ul>
                 </div>
                 <div class="search-group group-d ">
@@ -99,7 +101,7 @@
                 <div class="search-group group-e ">
                     <ul class="search-type">
                         <li><input hidden="" type="radio" name="type" id="type-douyin" value="https://www.douyin.com/search/" data-placeholder="抖音">
-                            <label for="type-douyin"><span class="text-muted">知乎</span></label></li>
+                            <label for="type-douyin"><span class="text-muted">抖音</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-iqiyi" value="https://so.iqiyi.com/so/q_" data-placeholder="爱奇艺">
                             <label for="type-iyiqi"><span class="text-muted">爱奇艺</span></label></li>
                         <li><input hidden="" type="radio" name="type" id="type-youku" value="https://www.soku.com/search_video/q_" data-placeholder="优酷">
@@ -128,18 +130,6 @@
                             <label for="type-baidutupian"><span class="text-muted">百度图片</span></label></li> 
                         <li><input hidden="" type="radio" name="type" id="type-huaban" value="https://huaban.com/search/?q=" data-placeholder="花瓣图片">
                             <label for="type-huaban"><span class="text-muted">花瓣</span></label></li>     
-                    </ul>
-                </div>
-                <div class="search-group group-g ">
-                    <ul class="search-type">
-                        <li><input hidden="" type="radio" name="type" id="type-zhaopin" value="https://sou.zhaopin.com/jobs/searchresult.ashx?kw=" data-placeholder="智联招聘">
-                            <label for="zhaopin"><span  class="text-muted">智联招聘</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-51job" value="https://search.51job.com/?" data-placeholder="前程无忧">
-                            <label for="type-51job"><span class="text-muted">前程无忧</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-lagou" value="https://www.lagou.com/jobs/list_" data-placeholder="拉钩网">
-                            <label for="type-lagou"><span class="text-muted">拉钩网</span></label></li>
-                        <li><input hidden="" type="radio" name="type" id="type-liepin" value="https://www.liepin.com/zhaopin/?key=" data-placeholder="猎聘网">
-                            <label for="type-liepin"><span class="text-muted">猎聘网</span></label></li>
                     </ul>
                 </div>
             </div>
